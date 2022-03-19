@@ -1,0 +1,17 @@
+{
+    "name": "nautilus644/alex644",
+    "description": "first project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Nautilus644\\Alex644\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Yagudin",
+            "email": "nautilus644@gmail.com"
+        }
+    ],
+    "require": {}
+}
