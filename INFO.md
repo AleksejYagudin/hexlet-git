@@ -1,1 +1,2 @@
-Test revert
+git is awesome!
+new line
