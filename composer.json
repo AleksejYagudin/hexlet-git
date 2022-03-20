@@ -5,7 +5,10 @@
     "autoload": {
         "psr-4": {
             "Nautilus644\\Alex644\\": "src/"
-        }
+        },
+        "files": [
+            "src/Runner.php"
+        ]
     },
     "authors": [
         {
